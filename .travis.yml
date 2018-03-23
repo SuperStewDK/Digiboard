@@ -2,7 +2,7 @@ language: node_js
 node_js:
 - "node"
 before_deploy:
-  $TRAVIS_TAG: v0.1.2
+  git tag "v0.1.2"
 deploy:
   provider: releases
   api_key:
