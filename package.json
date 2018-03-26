@@ -1,0 +1,27 @@
+{
+    "name": "thedigiboard",
+    "version": "0.1.2",
+    "description": "Application for The Digi Board(BeeBoard)",
+    "main": "browser/main.js",
+    "scripts": {
+      "start": "electron .",
+      "pack": "electron-builder --dir",
+      "dist": "electron-builder",
+      "build": "build --win"
+    },
+    "keywords": [
+      "Electron",
+      "The Digi Board",
+      "BeeBoard",
+      "Business Model"
+    ],
+    "author": "The Digi Solutions",
+    "license": "CC0-1.0",
+    "devDependencies": {
+    },
+    "dependencies": {
+    },
+    "repository": {
+      "url": "https://github.com/SuperStewDK/Digiboard.git"
+    }
+  }
