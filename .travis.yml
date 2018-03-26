@@ -1,8 +1,6 @@
 language: node_js
 node_js:
 - "node"
-before_deploy:
-  git tag "v0.1.2"
 deploy:
   provider: releases
   api_key:

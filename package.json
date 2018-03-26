@@ -23,5 +23,6 @@
     },
     "repository": {
       "url": "https://github.com/SuperStewDK/Digiboard.git"
-    }
+    },
+    "$TRAVIS_TAG": "v0.1.2"
   }
