@@ -1,2 +1,4 @@
-release
-node_modules
+.icon-ico/
+win-unpacked/
+electron-builder.yaml
+thedigiboard-Setup-0.1.2.exe.blockmap

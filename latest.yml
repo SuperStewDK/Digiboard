@@ -1,0 +1,9 @@
+version: 0.1.2
+files:
+  - url: thedigiboard-Setup-0.1.2.exe
+    sha512: SbzHhfgsT950UhvEJL8qmsaiDgMi95ueofTK0x2kUnZbGbcrWrZiEx+pt5xKZiNxl8LkMylI5CkL7bAzhah7+Q==
+    size: 43072089
+path: thedigiboard-Setup-0.1.2.exe
+sha512: SbzHhfgsT950UhvEJL8qmsaiDgMi95ueofTK0x2kUnZbGbcrWrZiEx+pt5xKZiNxl8LkMylI5CkL7bAzhah7+Q==
+sha2: c781b2c56f43002fc6784d1a554cd2ca5338bb4c5e2e0a8628882f4723dcb947
+releaseDate: '2018-04-03T09:45:44.948Z'
